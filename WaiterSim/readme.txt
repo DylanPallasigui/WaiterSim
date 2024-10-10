@@ -1,0 +1,1 @@
+waiter simulator, where you can take specific orders and give them the bill
